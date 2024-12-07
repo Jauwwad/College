@@ -68,10 +68,10 @@
 # print(x)
 
 
-# friends=['jauwwad','raza','sohail','varun']
-# for friend in friends:
-#     print("hello",friend)
-# print("Done!")
+friends=['jauwwad','raza','sohail','varun']
+for friend in friends:
+    print("hello",friend)
+print("Done!")
 
 
 
