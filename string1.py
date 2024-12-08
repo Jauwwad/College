@@ -8,7 +8,3 @@
 # for character in name:                  # For loop in strings
 #     print(character)
 # print("Done!")
-
-
-
-
